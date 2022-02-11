@@ -5,8 +5,8 @@
 
 1. Km's executados em 07/02/2022 - 7.92  km
 2. Km's executados em 08/02/2022 - 13.26 km
-3. Km's executados em 08/02/2022 - 20.27 km
-4. Km's executados em 08/02/2022 - 20.02 km
+3. Km's executados em 09/02/2022 - 20.27 km
+4. Km's executados em 10/02/2022 - 20.02 km
 
 - *Total de Km percorridos:*          61.47 Km
 - *Tempo gasto:*                      1:32:37
